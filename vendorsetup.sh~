@@ -80,7 +80,6 @@ add_lunch_combo liquid_sirius-userdebug
 add_lunch_combo liquid_spyder-userdebug
 add_lunch_combo liquid_tate-userdebug
 add_lunch_combo liquid_taoshan-userdebug
-add_lunch_combo liquid_tenderloin-userdebug
 add_lunch_combo liquid_t0lte-userdebug
 add_lunch_combo liquid_targa-userdebug
 add_lunch_combo liquid_togari-userdebug
